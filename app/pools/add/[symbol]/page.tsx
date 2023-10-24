@@ -61,7 +61,7 @@ export default function page({ params }: { params: { symbol: string } }) {
                     placeholder="0"
                   />
                 </div>
-                <p className="text-xs">HELLO per ETH</p>
+                <p className="text-xs">TOKEN A per ETH</p>
               </div>
               <div className="mt-4 flex flex-col bg-gray-200 dark:bg-gray-700 p-4 rounded-xl">
                 <p className="text-xs">High price</p>
@@ -75,7 +75,7 @@ export default function page({ params }: { params: { symbol: string } }) {
                     placeholder="0"
                   />
                 </div>
-                <p className="text-xs">HELLO per ETH</p>
+                <p className="text-xs">TOKEN A per ETH</p>
               </div>
             </div>
 
@@ -93,7 +93,7 @@ export default function page({ params }: { params: { symbol: string } }) {
                     placeholder="0"
                   />
                 </div>
-                <p className="text-xs">HELLO per ETH</p>
+                <p className="text-xs">TOKEN A per ETH</p>
               </div>
             </div>
 
@@ -138,7 +138,7 @@ export default function page({ params }: { params: { symbol: string } }) {
                   </div>
                   <div className="flex flex-col">
                     <div>
-                      <Button>HELLO</Button>
+                      <Button>TOKEN A</Button>
                     </div>
                     <p className="text-xs">Balance: 0</p>
                   </div>
