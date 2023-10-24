@@ -1,6 +1,5 @@
 import BackButton from "@/components/BackButton";
 import { Button } from "@/components/ui/button";
-import { ArrowBigLeftIcon } from "lucide-react";
 import React from "react";
 
 export default function page({ params }: { params: { symbol: string } }) {
